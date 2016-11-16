@@ -1,0 +1,12 @@
+h1 {
+	text-align: center;
+}
+ 
+ .clearfix {
+ 	overflow: auto;
+ }
+
+ .rowRou p {
+	color: #fff;
+	padding: 50px;
+ }
